@@ -95,7 +95,7 @@ public class CsvParticipantRepository implements ParticipantRepository {
 
         participants.add(new Participant("Suryo"));
         participants.add(new Participant("Lontas"));
-        participants.add(new Participant("Abdul"));
+        participants.add(new Participant("Abdul","Main"));
         participants.add(new Participant("Dewa"));
 
 
